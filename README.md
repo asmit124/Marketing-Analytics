@@ -52,6 +52,3 @@
       Open Tableau workbook (.twbx) for visualization.
 
 
-7. You can view the interactive Tableau dashboard here:
-
-      https://public.tableau.com/app/profile/alok.purbey/viz/BikeStoresDashboard_17595607089170/Dashboard1?publish=yes&showOnboarding=true
