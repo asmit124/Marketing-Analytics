@@ -2,7 +2,7 @@
 
 A full-stack data analytics project that simulates, cleans, visualizes, and automates reporting for multi-channel marketing campaigns. Built with Python and Streamlit.
 
-👉 Click Here for Live Demo
+👉 Live Link ->https://marketing-analytics-tyzrf7wtuxspzrhupx2fhd.streamlit.app/
 
 📖 Project Overview
 
